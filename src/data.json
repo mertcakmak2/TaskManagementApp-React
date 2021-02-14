@@ -1,0 +1,45 @@
+{
+    "lanes": [
+      
+      {
+        "id": "TEST",
+        "style": {
+          "width": 290,
+          "backgroundColor": "#F39952"
+        },
+        "cardStyle": { "backgroundColor": "#E6F2DE" },
+        "cards": [
+          {
+            "id": "Wip1",
+            "title": "Clean House",
+            "label": "30 mins",
+            "description": "Soap wash and polish floor. Polish windows and doors. Scrap all broken glasses"
+          },
+          {
+            "id": "test",
+            "title": "Buy test",
+            "label": "15 test",
+            "description": "2 test of milk at the Deli store"
+          }
+        ]
+      },
+
+      {
+        "id": "TAMAMLANDI",
+        "style": {
+          "width": 290,
+          "backgroundColor": "#60968B"
+        },
+        "cardStyle": { "backgroundColor": "#F79A72" },
+        "cards": [
+          {
+            "id": "Completed1",
+            "title": "Practice Meditation",
+            "label": "15 mins",
+            "description": "Use Headspace app"
+          }
+        ]
+      }
+    ]
+  }
+  
